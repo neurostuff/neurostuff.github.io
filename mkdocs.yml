@@ -11,4 +11,4 @@ markdown_extensions:
 docs_dir: 'src'
 use_directory_urls: false
 nav:
-    - Ecosystem Overview
+    - index.md
