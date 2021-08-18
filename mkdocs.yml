@@ -1,5 +1,5 @@
 site_name: The Neurostuff Ecosystem
-site_url: https://neurostuff.github.io/
+site_url: https://neurostuff.github.io
 theme:
     name: material
     favicon: images/favicon.png
