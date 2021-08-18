@@ -11,4 +11,4 @@ markdown_extensions:
 docs_dir: 'docs'
 use_directory_urls: false
 nav:
-    - index.mdc
+    - index.md
