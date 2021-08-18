@@ -39,7 +39,7 @@ and provides a Python package implementing the above methods.
 As part of an ongoing reorganization of the meta-analytic ecosystem, Neurosynth is being decomposed into multiple services.
 The following list describes what has happened to the different components of Neurosynth 1.0:
 
-- The [Neurosynth Python package][] has already been deprecated in favor in NiMARE.
+- The [Neurosynth Python package][] has already been deprecated in favor of NiMARE.
 - The database of coordinates and metadata will be incorporated and managed by the new NeuroStore database (see below).
 - The web interface for online-meta-analyses will be implemented as Neurosynth 2.0.
   Instead of rendering pre-generated meta-analyses, this new version will allow users to curate datasets from NeuroStore and
