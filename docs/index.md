@@ -110,6 +110,7 @@ NiMARE uses PyMARE for its image-based meta-analysis algorithms
 [Cognitive Atlas]: http://www.cognitiveatlas.org/
 [Cognitive Paradigm Ontology]: http://www.cogpo.org/
 [FSL]: https://fsl.fmrib.ox.ac.uk
+[metaCurious]: https://github.com/neurostuff/metaCurious
 [NeuroPower]: http://neuropowertools.org
 [NeuroQuery]: https://neuroquery.org
 [NeuroQuery database]: https://github.com/neuroquery/neuroquery_data
