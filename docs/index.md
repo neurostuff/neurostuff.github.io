@@ -7,8 +7,13 @@ This site outlines a new ecosystem for fMRI meta-analysis that is currently unde
     Several of the services detailed here do not currently exist or only partially support the functionality described below.
     This plan is likely to change over time.
 
-
-![The Ecosystem](images/ecosystem.png)
+<p>
+  <div class="lightgallery">
+    <a href="/images/ecosystem.png" data-sub-html="The Neurostuff Ecosystem">
+      <img alt="The Neurostuff Ecosystem" src="/images/ecosystem.png" />
+    </a>
+  </div>
+</p>
 
 
 ## NiMARE

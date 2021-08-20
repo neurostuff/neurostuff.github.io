@@ -2,12 +2,14 @@ site_name: The Neurostuff Ecosystem
 site_url: https://neurostuff.github.io
 theme:
     name: material
+    custom_dir: theme
     favicon: images/favicon.png
     logo: images/logo.png
 markdown_extensions:
     - toc:
         anchorlink: true
     - admonition
+    - lightgallery
 docs_dir: 'docs'
 nav:
     - The Neurostuff Ecosytem: index.md
