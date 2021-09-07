@@ -16,25 +16,6 @@ This site outlines a new ecosystem for fMRI meta-analysis that is currently unde
 </p>
 
 
-## NiMARE
-
-[NiMARE][] is a Python package for performing meta-analyses, and derivative analyses using meta-analytic data,
-of the neuroimaging literature.
-While meta-analytic packages exist which implement one or two algorithms each,
-NiMARE provides a standard syntax for performing a wide range of analyses and for interacting with databases of coordinates and images
-from fMRI studies (e.g., brainspell, Neurosynth, and NeuroVault).
-
-NiMARE joins a growing Python ecosystem for neuroimaging research, which includes such tools as [Nipype][], [Nistats][], and [Nilearn][].
-As with these other tools, NiMARE is open source, collaboratively developed, and built with ease of use in mind.
-
-NiMARE aims to fill a gap in a burgeoning meta-analytic ecosystem.
-The goal of NiMARE is to collect a wide range of meta-analytic tools in one Python library.
-Currently, those methods are spread out across a range of programming languages and user interfaces,
-or are never even translated from the original papers into useable tools.
-NiMARE operates on NIMADS-format datasets, which users will be able to compile by searching the NeuroStore database with the pyNIMADS library.
-A number of other services in the ecosystem will then use NiMARE functions to perform meta-analyses, including Neurosynth 2.0 and [NeuroVault][].
-
-
 ## Neurosynth 2.0
 
 [Neurosynth 1.0][] currently stores a coordinated-based database of over 14,000 neuroimaging papers (automatically curated by [ACE][]),
@@ -66,6 +47,25 @@ correcting any mistakes in study data or metadata (such as incorrectly-extracted
 This database curation functionality will fulfill a similar role within the ecosystem to [brainspell][].
 
 NeuroStore will automatically index statistical maps from NeuroVault and ingest newly-extracted coordinates from databases like NeuroQuery.
+
+
+## NiMARE
+
+[NiMARE][] is a Python package for performing meta-analyses, and derivative analyses using meta-analytic data,
+of the neuroimaging literature.
+While meta-analytic packages exist which implement one or two algorithms each,
+NiMARE provides a standard syntax for performing a wide range of analyses and for interacting with databases of coordinates and images
+from fMRI studies (e.g., brainspell, Neurosynth, and NeuroVault).
+
+NiMARE joins a growing Python ecosystem for neuroimaging research, which includes such tools as [Nipype][], [Nistats][], and [Nilearn][].
+As with these other tools, NiMARE is open source, collaboratively developed, and built with ease of use in mind.
+
+NiMARE aims to fill a gap in a burgeoning meta-analytic ecosystem.
+The goal of NiMARE is to collect a wide range of meta-analytic tools in one Python library.
+Currently, those methods are spread out across a range of programming languages and user interfaces,
+or are never even translated from the original papers into useable tools.
+NiMARE operates on NIMADS-format datasets, which users will be able to compile by searching the NeuroStore database with the pyNIMADS library.
+A number of other services in the ecosystem will then use NiMARE functions to perform meta-analyses, including Neurosynth 2.0 and [NeuroVault][].
 
 
 ## NeuroQuery
